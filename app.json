@@ -11,7 +11,7 @@
     "TUTORIAL_HOME": {
       "description": "Welcome message",
       "required": false,
-      "value": "Welcome to Haskell on Heroku"
+      "value": "Welcome to Haskell on Bluemix"
     }
   }
 }
